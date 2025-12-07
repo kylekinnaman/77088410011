@@ -1,0 +1,15 @@
+{
+  "hero": [
+    "images/hero/1.jpg",
+    "images/hero/2.jpg",
+    "images/hero/pexels-photo-1563356.jpeg",
+    "images/hero/pexels-photo-715134.jpeg",
+    "images/hero/photo-1473042904451-00171c69419d.jpeg",
+    "images/hero/photo-1543171215-1beb7b8b0ecb.jpeg",
+    "images/hero/photo-1606416357029-8cc2e025682e.jpeg"
+  ],
+  "avatar": [
+    "images/avatar/1.jpg",
+    "images/avatar/2.jpg"
+  ]
+}
